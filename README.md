@@ -7,7 +7,7 @@
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/525px-Webysther_20160423_-_Elephpant.svg.png">
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://www.svgrepo.com/show/4796/html.svg">
-    <img align="right" alt="yasuo" height="300" width="300" src="https://cdna.artstation.com/p/assets/images/images/054/966/210/original/shoshanah-graves-trashuo.gif?1665781077">
+    <img align="right" alt="yasuo" height="300" width="300" src="https://drive.google.com/file/d/173zf6_QLVGvROXxVVFIinCfiIsFNJyCf">
 </div>
 
 ##
