@@ -9,15 +9,10 @@
     <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/256/174/174854.png">
 </div>
 
-### 📊Estatísticas
-<img 
-align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=srodrigosouza&show_icons=true&theme=tokyonight&include_all_comits-true&locale=pt-br" 
-/>
-<img 
-align="right" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srodrigosouza&theme=tokyonight&include_all_comits-true&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=1" 
-/>
+##
 
 <div> 
+ <img align="center"
     <a href="https://instagram.com/rodrigosz26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/srodrigosouza" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:srodrigo.souza025@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
