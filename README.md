@@ -7,7 +7,6 @@
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Csharp" height="40" width="58" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/525px-Webysther_20160423_-_Elephpant.svg.png">
     <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/256/174/174854.png">
-    <img align="right" alt="yasuo" height="300" width="300" src="">
 </div>
 
 ##
